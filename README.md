@@ -1,7 +1,7 @@
 tairail
 =======
 
-Script which let's you more easily query Taiwan Railways Timetables (e.g. like you're used to from Switzerland where you just enter departure and destination)
+Script which lets you more easily query Taiwan Railways Timetables (e.g. like you're used to from Switzerland where you just enter departure and destination)
 
 Here is the search interface on the official homepage of Taiwan Railways:
 
